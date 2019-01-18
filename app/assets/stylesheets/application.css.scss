@@ -3,3 +3,11 @@
 h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
 }
+body, .navbar {
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 1%, rgba(9,9,121,1) 54%, rgba(2,0,36,1) 88%);
+}
+
+.navbar {
+    border:none;
+}
